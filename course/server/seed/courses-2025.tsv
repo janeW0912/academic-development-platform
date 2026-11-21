@@ -1,0 +1,546 @@
+common	思想政治理论课	思想道德与法治		3	1	required
+common	思想政治理论课	中国近现代史纲要		3	2	required
+common	思想政治理论课	马克思主义基本原理		3	3	required
+common	思想政治理论课	习近平新时代中国特色社会主义思想概论		3	3	required
+common	思想政治理论课	毛泽东思想和中国特色社会主义理论体系概论		3	4	required
+common	思想政治理论课	形势与政策		2	1, 2, 3, 4, 5, 6, 7, 8	required
+common	思想政治理论课	思政实践课		2	1, 2, 3, 4, 5, 6, 7, 8	required
+common	思想政治理论课	习近平经济思想概论		2	2, 4, 6, 8	optional
+common	思想政治理论课	习近平法治思想概论		2	1, 3, 5, 7	optional
+common	思想政治理论课	习近平文化思想概论		2	1, 3, 5, 7	optional
+common	思想政治理论课	习近平生态文明思想概论		2	2, 4, 6, 8	optional
+common	思想政治理论课	习近平强军思想概论		2	2, 4, 6, 8	optional
+common	思想政治理论课	习近平外交思想概论		2	1, 3, 5, 7	optional
+common	思想政治理论课	习近平关于教育的重要论述导读		2	2, 4, 6, 8	optional
+common	思想政治理论课	习近平关于“三农”工作重要论述概论		2	1, 3, 5, 7	optional
+common	思想政治理论课	社会主义发展史专题		2	1, 3, 5, 7	optional
+common	思想政治理论课	中国共产党历史专题		2	1, 3, 5, 7	optional
+common	思想政治理论课	中华优秀传统文化概论		2	1, 3, 5, 7	optional
+common	基础技能 - 公共外语	大学英语听说Ⅱ		2	1	II=1
+common	基础技能 - 公共外语	大学英语读写Ⅱ		2	1	II=1
+common	基础技能 - 公共外语	大学英语综合Ⅲ		2	1, 2	II=2;III=1
+common	基础技能 - 公共外语	大学英语综合Ⅳ		2	1	IV=1
+common	公共外语拓展课	高级英语写作		2	2	III=2;IV=2
+common	公共外语拓展课	英汉互译		2	2	III=2;IV=2
+common	公共外语拓展课	学术英语视听说		2	2	III=2;IV=2
+common	公共外语拓展课	英语国家社会与文化		2	2	III=2;IV=2
+common	公共外语拓展课	中国文化		2	2	III=2;IV=2
+common	公共外语拓展课	中华文化国际沟通与传播		2	2	III=2;IV=2
+common	公共外语拓展课	英语小说与文明互鉴		2	2	III=2;IV=2
+common	基础技能 - 公共外语	大学英语写作（二）		2	4, 6, 8	
+common	基础技能 - 公共外语	英语演讲		2	1, 3	III=3;IV=3;V=1
+common	公共外语拓展课	国际胜任力英语综合		2	2	IV=2;V=2;VI=2
+common	公共外语拓展课	国际胜任力专业素养		2	2	IV=2;V=2;VI=2
+common	新生引导课	数字时代的科学与技术		1	1	
+common	新生引导课	新生引导课		1	2	
+common	公共体育	游泳		1	1, 2, 3, 4	core
+common	公共体育	太极拳		1	1, 2, 3, 4	core
+common	公共体育	篮球		1	1, 2, 3, 4	core
+common	公共体育	健美操		1	1, 2, 3, 4	core
+common	公共体育	体育运动基础		1	1, 2, 3, 4	core
+common	公共体育	田径		1	1, 2, 3, 4	specialty
+common	公共体育	体质健康		1	1, 2, 3, 4	specialty
+common	公共体育	啦啦操		1	1, 2, 3, 4	specialty
+common	公共体育	瑜伽		1	1, 2, 3, 4	specialty
+common	公共体育	体育舞蹈		1	1, 2, 3, 4	specialty
+common	公共体育	健美		1	1, 2, 3, 4	specialty
+common	公共体育	中华韵		1	1, 2, 3, 4	specialty
+common	公共体育	养生		1	1, 2, 3, 4	specialty
+common	公共体育	太极剑		1	1, 2, 3, 4	specialty
+common	公共体育	足球		1	1, 2, 3, 4	specialty
+common	公共体育	排球		1	1, 2, 3, 4	specialty
+common	公共体育	乒乓球		1	1, 2, 3, 4	specialty
+common	公共体育	网球		1	1, 2, 3, 4	specialty
+common	公共体育	羽毛球进阶		1	1, 2, 3, 4	specialty
+common	公共体育	篮球进阶		1	1, 2, 3, 4	specialty
+common	公共体育	匹克球		1	1, 2, 3, 4	specialty
+common	公共体育	气排球		1	1, 2, 3, 4	specialty
+common	公共体育	羽毛球		1	1, 2, 3, 4	specialty
+common	公共体育	高尔夫		1	1, 2, 3, 4	specialty
+common	公共体育	棒垒球		1	1, 2, 3, 4	specialty
+common	公共体育	散打		1	1, 2, 3, 4	specialty
+common	公共体育	跆拳道		1	1, 2, 3, 4	specialty
+common	公共体育	拓展训练		1	1, 2, 3, 4	specialty
+common	公共体育	篮球裁判		1	1, 2, 3, 4	specialty
+common	公共体育	定向运动		1	1, 2, 3, 4	specialty
+common	公共体育	田径理论与裁判法实践		1	1, 2, 3, 4	specialty
+common	公共体育	体育提高课		0	5, 6	
+common	公共体育	一般选修课		0	7, 8	
+common	劳动教育	劳动教育		1	1, 2, 3, 4, 5, 6, 7	
+common	心理健康教育	大学生心理健康		2	1, 2	
+common	职业生涯教育	职业生涯教育		1	1, 2, 3, 4, 5, 6, 7	
+common	军事课	军事理论		2	1, 2	
+common	军事课	军事技能		2	1	
+common	志愿服务	志愿服务		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	美学概论		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	二十世纪世界建筑发展史		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	歌声中的党史		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	东西方艺术的本质与美感		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	国剧艺术大观		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	戏剧跨文化漫游		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	中国曲艺大观		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	游戏艺术漫谈		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	游戏媒体学		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	广告创意与艺术鉴赏		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	书法文化与当代大学生人文素养		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	魏碑临习与欣赏		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	融合设计振兴乡村		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	花鸟画技法		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	造型基础		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	中外名歌赏析与比较		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	音乐基础理论与视唱练耳（简谱）		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	户外演唱		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	合唱艺术与发声技巧		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	聆听民乐		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	中国声乐艺术及鉴赏		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	中国民歌赏析		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	中国音乐赏析		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	西方古典音乐赏析		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	中国民间舞蹈		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	舞蹈作品赏析		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	视听节目创意		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	中国美术史		2	1, 3, 5, 7	
+common	美育课程	二十世纪西方艺术		2	1, 3, 5, 7	
+common	美育课程	世界电影简史		2	1, 3, 5, 7	
+common	美育课程	摄影艺术概论		2	1, 3, 5, 7	
+common	美育课程	电影导论		2	1, 3, 5, 7	
+common	美育课程	视听节目创意与策划		2	1, 3, 5, 7	
+common	美育课程	欧洲文艺复兴与巴洛克绘画赏析		2	1, 3, 5, 7	
+common	美育课程	现代艺术大师名画赏析		2	1, 3, 5, 7	
+common	美育课程	明清古典文学鉴赏		2	1, 3, 5, 7	
+common	美育课程	中国古典诗歌的审美世界		2	1, 3, 5, 7	
+common	美育课程	艺术与审美		2	2, 4, 6, 8	
+common	美育课程	西藏艺术史专题		2	2, 4, 6, 8	
+common	美育课程	中国美学与艺术导论		2	2, 4, 6, 8	
+common	美育课程	中国艺术与美学专题		2	2, 4, 6, 8	
+common	美育课程	书法基础		2	2, 4, 6, 8	
+common	美育课程	艺术营销原理		2	2, 4, 6, 8	
+common	美育课程	文艺与音乐传播研究		2	2, 4, 6, 8	
+common	美育课程	文学跨媒介写作		2	2, 4, 6, 8	
+common	美育课程	西方艺术史		2	2, 4, 6, 8	
+common	美育课程	中国史前艺术		2	2, 4, 6, 8	
+common	美育课程	漫画学入门		2	2, 4, 6, 8	
+common	美育课程	影视纪录片赏析		2	2, 4, 6, 8	
+common	美育课程	英文歌曲演唱		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	民族交融与文明互鉴——故宫博物院建筑历史		1	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	芭蕾形体		1	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	外国民间舞		1	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	戏剧表演		1	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	戏剧创意面面观		1	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	身体唤醒与舞蹈实践		1	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	延安时期安塞腰鼓舞蹈		1	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	钢琴伴奏入门		1	1, 2, 3, 4, 5, 6, 7, 8	
+common	美育课程	校园景观营建		1	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共选修课	情感心理学		2	1	
+common	公共选修课	爱情心理学		2	1	
+common	公共选修课	情商解析与修炼		2	1	
+common	公共选修课	影视中的心理课		2	1	
+common	公共选修课	大学生涯与个人成长		2	1, 2	
+common	公共选修课	积极心理学团体辅导		2	1, 2	
+common	公共选修课	自助旅行与心理健康教育		2	2	
+common	公共选修课	朋辈心理辅导		2	2	
+common	公共选修课	亲密关系心理分析		2	2	
+common	公共选修课	心理咨询技巧在大学生活中的应用		2	2	
+common	公共选修课	心理咨询实务与督导		2	1	
+foundation	部类共同课	数学分析Ⅰ		5	1	SATE
+foundation	部类共同课	数学分析Ⅱ		5	2	SATE
+foundation	部类共同课	高等数学Ⅰ		5	1	G
+foundation	部类共同课	高等数学Ⅱ		5	2	G
+foundation	部类共同课	高等代数Ⅰ		4	1	SATE
+foundation	部类共同课	高等代数Ⅱ		4	2	SATE
+foundation	部类共同课	高等代数 I（计算机类）		4	1	G
+foundation	部类共同课	高等代数 II（计算机类）		4	2	G
+foundation	部类共同课	线性代数		4	1	
+foundation	部类共同课	普通物理 B		4	2, 4	all
+foundation	部类共同课	普通物理 AI		4	1	
+foundation	部类基础课	程序设计		4	1	all
+foundation	部类基础课	人工智能与 Python 程序设计		4	2	SATE
+core	专业核心课	机器学习		3	4	G
+core	专业核心课	深度学习		2	5	G
+core	专业核心课	数据结构与算法Ⅰ		4	3	G
+core	专业核心课	概率论与数理统计		4	3	G
+core	专业核心课	并行计算		2	5	G
+core	专业核心课	高级大数据系统		3	6	G
+core	专业核心课	数据科学导论		3	3	G
+core	专业核心课	计算机系统基础 I		3	3	G
+core	专业核心课	计算机系统基础 II		3	4	G
+core	专业核心课	离散数学 A		3	2	G
+core	专业核心课	数据库系统概论		3	5	G
+core	专业核心课	数据结构与算法Ⅱ		3	4	G
+core	专业核心课	大数据可视化		2	5	G
+core	专业核心课	网络空间安全引论		2	3	G
+core	专业核心课	软件工程导论		2	4	G
+core	专业核心课	高级 Python 程序设计		2	2	G
+core	专业核心课	计算机网络		3	6	G
+core	专业核心课	统计学概论		2	1	E
+core	专业核心课	数据科学概论（TS）（含 17 学时实践）		2	2	E
+core	专业核心课	数据结构与算法Ⅰ		4	3	E
+core	专业核心课	概率论（TS）（含 8.5 学时实践）		4	3	E
+core	专业核心课	数学分析Ⅲ		5	3	E
+core	专业核心课	机器学习（TS）（含 17 学时实践）		3	4	E
+core	专业核心课	数理统计（TS）（含 8.5 学时实践）		4	4	E
+core	专业核心课	实变函数		3	4	E
+core	专业核心课	深度学习（TS）（含 17 学时实践）		2	5	E
+core	专业核心课	大数据并行计算（TS）（含 25.5 学时实践）		3	5	E
+core	专业核心课	回归分析（TS）（含 17 学时实践）		3	5	E
+core	专业核心课	随机过程		3	5	E
+core	专业核心课	最优化方法		3	5	E
+core	专业核心课	数据科学实践 TC（含 25.5 学时实践）		2	6	E
+core	专业核心课	统计计算（TS）（含 17 学时实践）		3	6	E
+core	专业核心课	统计学概论		2	1	S
+core	专业核心课	数据科学概论（TS）（含 17 学时实践）		2	2	S
+core	专业核心课	数学分析Ⅲ		5	3	S
+core	专业核心课	概率论（TS）（含 8.5 学时实践）		4	3	S
+core	专业核心课	数理统计（TS）（含 8.5 学时实践）		4	4	S
+core	专业核心课	回归分析（TS）（含 17 学时实践）		3	5	S
+core	专业核心课	实变函数（TS）（含 8.5 学时实践）		3	4	S
+core	专业核心课	随机过程（TS）（含 3.4 学时实践）		3	5	S
+core	专业核心课	抽样技术（TS）（含 17 学时实践）		3	5	S
+core	专业核心课	非参数统计（TS）（含 25.5 学时实践）		3	5	S
+core	专业核心课	统计计算（TS）（含 17 学时实践）		3	6	S
+core	专业核心课	时间序列分析（TS）（含 17 学时实践）		3	6	S
+core	专业核心课	多元统计分析（TS）（含 8.5 学时实践）		3	6	S
+core	专业核心课	实验设计（TS）（含 17 学时实践）		3	5	S
+core	专业核心课	统计学概论		2	1	A
+core	专业核心课	数据科学概论（TS）（含 17 学时实践）		2	2	A
+core	专业核心课	数学分析Ⅲ		5	3	A
+core	专业核心课	概率论（TS）（含 8.5 学时实践）		4	3	A
+core	专业核心课	数理统计（TS）（含 8.5 学时实践）		4	4	A
+core	专业核心课	回归分析（TS）（含 17 学时实践）		3	5	A
+core	专业核心课	微观经济学		3	3	A
+core	专业核心课	宏观经济学		3	4	A
+core	专业核心课	随机过程（TS）（含 3.4 学时实践）		3	5	A
+core	专业核心课	金融数学（TS）（含 8.5 学时实践）		3	3	A
+core	专业核心课	精算模型（TS）（含 8.5 学时实践）		3	5	A
+core	专业核心课	寿险精算学（TS）（含 17 学时实践）		3	4	A
+core	专业核心课	时间序列分析		3	6	A
+core	专业核心课	多元统计分析（TS）（含 8.5 学时实践）		3	6	A
+core	专业核心课	统计学概论		2	1	T
+core	专业核心课	数据科学概论（TS）（含 17 学时实践）		2	2	T
+core	专业核心课	会计学		3	2	T
+core	专业核心课	数学分析Ⅲ		5	3	T
+core	专业核心课	概率论（TS）（含 8.5 学时实践）		4	3	T
+core	专业核心课	数理统计（TS）（含 8.5 学时实践）		4	4	T
+core	专业核心课	回归分析（TS）（含 17 学时实践）		3	5	T
+core	专业核心课	微观经济学		3	3	T
+core	专业核心课	宏观经济学		3	4	T
+core	专业核心课	抽样技术（TS）（含 17 学时实践）		3	5	T
+core	专业核心课	时间序列分析（TS）（含 17 学时实践）		3	6	T
+core	专业核心课	多元统计分析（TS）（含 8.5 学时实践）		3	6	T
+core	专业核心课	国民经济核算（TS）（含 17 学时实践）		3	5	T
+core	专业核心课	计量经济学 B（TS）（含 17 学时实践）		3	6	T
+elective	1	域与 Galois 理论		3	5	数学类
+elective	1	动力系统		3	5	数学类
+elective	1	高等概率论		3	5	数学类
+elective	1	动态优化		3	5	数学类
+elective	1	数据建模		3	5	数学类
+elective	1	图论		3	6	数学类
+elective	1	微分流形		3	6	数学类
+elective	1	黎曼几何		3	6	数学类
+elective	1	时间序列分析		3	6	数学类
+elective	1	多元统计分析		3	6	数学类
+elective	1	博弈论导论		2	6	数学类
+elective	1	最优化方法		3	6	数学类
+elective	103	反问题及应用		2	6	数学类
+elective	103	建模与经济预测		2	6	数学类
+elective	103	计算代数几何及其应用		2	7	数学类
+elective	103	人工智能与数学		2	7	数学类
+elective	104	交换代数 I		3	6	数学类
+elective	104	数值分析		3	6	数学类
+elective	104	代数数论 I		3	7	数学类
+elective	104	计算机代数		3	7	数学类
+elective	104	代数拓扑		3	7	数学类
+elective	104	实分析		3	7	数学类
+elective	104	泛函分析 II		3	7	数学类
+elective	104	矩阵计算引论		3	7	数学类
+elective	104	密码学基础		3	7	数学类
+elective	104	复分析		3	7	数学类
+elective	104	偏微分方程 I		3	7	数学类
+elective	104	随机分析		3	8	数学类
+elective	104	最优控制理论		3	8	数学类
+elective	104	数据挖掘		3	8	数学类
+elective	104	代数几何 I		3	8	数学类
+elective	104	调和分析 I		3	8	数学类
+elective	104	随机过程		3	8	数学类
+elective	4	博弈论导论		2	4	数学类
+elective	4	离散数学 A		3	4	数学类
+elective	4	复变函数		3	4	数学类
+elective	4	拓扑学基础		3	4	数学类
+elective	4	微分几何		3	5	数学类
+elective	4	抽象代数		3	5	数学类
+elective	4	偏微分方程基础		3	5	数学类
+elective	4	动力系统		3	5	数学类
+elective	4	高等概率论		3	5	数学类
+elective	4	图论		3	5	数学类
+elective	4	动态优化		3	5	数学类
+elective	4	区块链及其应用		2	5	数学类
+elective	4	微分流形		3	6	数学类
+elective	4	泛函分析 I		3	6	数学类
+elective	4	时间序列分析		3	6	数学类
+elective	4	多元统计分析		3	6	数学类
+elective	4	并行计算与软件设计		3	6	数学类
+elective	4	代数拓扑		3	7	数学类
+elective	105	组合优化与算法设计		2	6	数学类
+elective	105	反问题及应用		2	6	数学类
+elective	105	建模与经济预测		2	6	数学类
+elective	105	人工智能与数学		2	7	数学类
+elective	106	数值分析		3	6	数学类
+elective	106	实分析		3	7	数学类
+elective	106	泛函分析 II		3	7	数学类
+elective	106	矩阵计算引论		3	7	数学类
+elective	106	密码学基础		3	7	数学类
+elective	106	复分析		3	7	数学类
+elective	106	偏微分方程 I		3	7	数学类
+elective	106	随机分析		3	8	数学类
+elective	106	最优控制理论		3	8	数学类
+elective	106	数据挖掘		3	8	数学类
+elective	106	生物数学		3	8	数学类
+elective	106	人工智能数学原理		3	8	数学类
+elective	106	调和分析 I		3	8	数学类
+elective	106	随机过程		3	8	数学类
+elective	5	普通化学 A		4	1, 2	物理类
+elective	5	人工智能与物理学		2	3, 5	物理类
+elective	5	菁英物理实验挑战（含 48 学时实验）		2	4	物理类
+elective	5	高级物理实验荣誉课程（含 64 学时实验）		3	6	物理类
+elective	5	电工与电路		3	4	物理类
+elective	5	量子信息和量子计算导论		2	4	物理类
+elective	5	低维半导体物理与器件		2	4	物理类
+elective	5	Labview 与虚拟仪器设计		2	5	物理类
+elective	5	计算物理 II		3	5	物理类
+elective	5	材料科学基础		3	5	物理类
+elective	5	数学物理方法 III- 概率论与数理统计		3	5	物理类
+elective	5	金融物理		3	6	物理类
+elective	5	相图与相变		3	6	物理类
+elective	5	磁学和磁性材料基础		3	6, 8	物理类
+elective	5	量子光学		3	6	物理类
+elective	5	介观与纳米物理		3	6, 8	物理类
+elective	5	高等量子力学		4	7	物理类
+elective	5	凝聚态物理学导论		4	7	物理类
+elective	5	超冷原子物理		3	7	物理类
+elective	5	超导物理		3	7	物理类
+elective	5	科技英语写作		2	7	物理类
+elective	5	非线性动力学与混沌		3	7	物理类
+elective	5	材料物理		3	7	物理类
+elective	5	量子统计物理		4	7	物理类
+elective	5	群论		4	7	物理类
+elective	6	人工智能与物理学		2	3, 5	物理类
+elective	6	菁英物理实验挑战（含 48 学时实验）		2	4	物理类
+elective	6	高级物理实验荣誉课程（含 64 学时实验）		3	6	物理类
+elective	6	电工与电路		3	4	物理类
+elective	6	量子信息和量子计算导论		2	4	物理类
+elective	6	低维半导体物理与器件		2	4	物理类
+elective	6	Labview 与虚拟仪器设计		2	5	物理类
+elective	6	计算物理 II		3	5	物理类
+elective	6	数学物理方法 III- 概率论与数理统计		3	5	物理类
+elective	6	金融物理		3	6	物理类
+elective	6	磁学和磁性材料基础		3	6, 8	物理类
+elective	6	量子光学		3	6	物理类
+elective	6	介观与纳米物理		3	6, 8	物理类
+elective	6	高等量子力学		4	7	物理类
+elective	6	凝聚态物理学导论		4	7	物理类
+elective	6	超冷原子物理		3	7	物理类
+elective	6	超导物理		3	7	物理类
+elective	6	科技英语写作		2	7	物理类
+elective	6	非线性动力学与混沌		3	7	物理类
+elective	6	量子统计物理		4	7	物理类
+elective	6	群论		4	7	物理类
+elective	7	碳化学		2	2	化学类
+elective	7	统计热力学		2	4	化学类
+elective	7	专业英语		2	4	化学类
+elective	7	化学信息学		2	4	化学类
+elective	7	电化学与电分析		2	5	化学类
+elective	7	生物化学		2	5	化学类
+elective	7	配位化学		2	5	化学类
+elective	7	有机合成		2	5	化学类
+elective	7	现代分析技术方法 I		2	5	化学类
+elective	7	现代技术分析方法 II		2	6	化学类
+elective	7	化工基础		2	6	化学类
+elective	7	精细化学品		2	6	化学类
+elective	7	材料科学导论		2	6	化学类
+elective	7	高分子化学实验		2	6	化学类
+elective	7	综合化学实验		2	6	化学类
+elective	107	AI+ 化学		2	4	化学类
+elective	9	水污染控制工程实验		2	5	环境类
+elective	9	环境生态学		2	4	环境类
+elective	9	保护生态学		2	5	环境类
+elective	9	纳米技术与环境修复（E）		2	5	环境类
+elective	9	胶体与表面化学		2	5	环境类
+elective	9	环境科学与工程新进展		2	6	环境类
+elective	9	新能源概论		2	6	环境类
+elective	108	AI+ 化学		2	4	环境类
+elective	10	数据科学实践（创研课）		2	6	计算机类
+elective	10	开源大数据系统实践		2	6	计算机类
+elective	10	信息安全攻防实践		2	4, 6	计算机类
+elective	10	程序设计实践（创研课）		2	5	计算机类
+elective	10	数据库系统开发实践		2	5	计算机类
+elective	11	现代处理器设计		3	5	计算机类
+elective	11	操作系统内核实现		3	6	计算机类
+elective	11	人工智能计算系统		3	6	计算机类
+elective	12	运筹学建模与算法		3	4	计算机类
+elective	12	最优化方法		3	5	计算机类
+elective	12	计算学习理论		2	6	计算机类
+elective	12	图论		2	4	计算机类
+elective	13	数字逻辑与数字电路		2	3	计算机类
+elective	13	智能数据管理系统		2	5	计算机类
+elective	13	存储系统基础		2	5	计算机类
+elective	13	无线通信技术		2	6	计算机类
+elective	13	现代通信技术		2	7	计算机类
+elective	14	深度学习应用		3	5	计算机类
+elective	14	人工智能引论		2	5	计算机类
+elective	14	自然语言处理		2	7	计算机类
+elective	14	信息检索导论		2	6	计算机类
+elective	14	大模型系统		2	6	计算机类
+elective	15	数据治理（创研课）		2	5	计算机类
+elective	15	大数据隐私计算		2	6	计算机类
+elective	15	网络群体与市场		2	5	计算机类
+elective	15	Introduction to Interdisciplinary Science of Artificial Intelligence		2	6	计算机类
+elective	15	数据仓库与数据挖掘		2	6	计算机类
+elective	16	多媒体技术		2	5	计算机类
+elective	16	数字信号处理		3	5	计算机类
+elective	16	机器感知技术		2	5	计算机类
+elective	16	人机交互		2	5	计算机类
+elective	16	RUST 系统编程实践		2	6	计算机类
+elective	17	函数式编程		2	6	计算机类
+elective	17	软件测试		2	5	计算机类
+elective	17	IT 项目管理		3	4	计算机类
+elective	17	JAVA 程序设计		3	4	计算机类
+elective	17	分布式应用程序设计		3	6	计算机类
+elective	18	程序设计安全		2	5	计算机类
+elective	18	Web 安全		2	4	计算机类
+elective	18	操作系统内核分析与实践		2	5	计算机类
+elective	19	区块链原理及实践		2	5	计算机类
+elective	19	信息内容安全		2	6	计算机类
+elective	19	信息安全管理		2	5	计算机类
+elective	19	人工智能安全		2	6	计算机类
+elective	20	管理学概论		2	3	计算机类
+elective	20	管理经济学 A		3	4	计算机类
+elective	20	信息系统理论基础		2	4	计算机类
+elective	20	信息资源管理		2	5	计算机类
+elective	20	计量分析商业应用		2	5	计算机类
+elective	21	机器学习应用		2	4	计算机类
+elective	21	JSP 实用技术		3	5	计算机类
+elective	21	商业知识图谱技术与应用		2	5	计算机类
+elective	21	深度学习与商务智能		2	5	计算机类
+elective	21	生成式 AI 与信息系统实践		2	6	计算机类
+elective	21	区块链商业应用基础		2	6	计算机类
+elective	22	电子商务规划与管理（全英文）		2	3	计算机类
+elective	22	电子商务案例		2	4	计算机类
+elective	22	大语言模型的应用与实践		3	4	计算机类
+elective	22	IT 创新创业模式及系统实现 ( 创研课）		3	5	计算机类
+elective	22	ERP 与企业运营模拟		3	5	计算机类
+elective	22	网络空间与智慧治理		2	6	计算机类
+elective	23	互联网金融概论		2	4	计算机类
+elective	23	金融信息管理		2	5	计算机类
+elective	23	金融大数据分析		2	5	计算机类
+elective	23	金融风险管理		2	5	计算机类
+elective	23	金融技术与实践		2	5	计算机类
+elective	23	现代投资学		2	6	计算机类
+elective	101	计算前沿探索		2	4	计算机类
+elective	101	大数据前沿探索		2	5	计算机类
+elective	101	信息安全前沿探索		2	6	计算机类
+elective	101	信息管理前沿探索		2	7	计算机类
+elective	24	数理统计选讲		2	5	统计学类
+elective	24	测度论（TS）		3	6	统计学类
+elective	24	贝叶斯统计		2	7	统计学类
+elective	24	现代数学选讲（TS）（含 8.5 学时实践）		2	8	统计学类
+elective	25	数据可视化（TS）（含 17 学时实践）		2	3, 5	统计学类
+elective	25	强化学习（TS）（含 8.5 学时实践）		2	6	统计学类
+elective	25	数据科学专题（TS）（含 8.5 学时实践）		2	7	统计学类
+elective	26	保险原理		2	1, 3	统计学类
+elective	26	寿险精算选讲		2	5	统计学类
+elective	26	公司财务 A		3	6	统计学类
+elective	26	投资学 B		2	4, 6	统计学类
+elective	26	精算风险管理		2	6	统计学类
+elective	26	衍生金融市场基础（TS）（含 3.4 学时实践）		2	4, 6	统计学类
+elective	26	非寿险精算（TS）（含 8.5 学时实践）		2	6	统计学类
+elective	26	大数据精算建模		2	7	统计学类
+elective	27	经济与社会统计（TS）（含 8.5 学时实践）		3	4	统计学类
+elective	27	统计调查（TS）（含 17 学时实践）		2	4	统计学类
+elective	27	金融统计问题概览 TC（含 17 学时实践）		2	5	统计学类
+elective	27	宏观经济统计分析 TC（含 17 学时实践）		2	7	统计学类
+elective	28	国土空间统计学		2	5	统计学类
+elective	28	统计软件（TS）（含 8.5 学时实践）		2	3	统计学类
+elective	28	数据库系统概论		4	5	统计学类
+elective	29	商业应用分析（TS）（含 17 学时实践）		3	3, 5	统计学类
+elective	29	调查技术与方法		2	3, 5	统计学类
+elective	29	数字化营销实务		3	6	统计学类
+elective	30	抽样技术（TS）（含 17 学时实践）		3	5	统计学类
+elective	30	最优化方法（TS）（含 17 学时实践）		3	5	统计学类
+elective	30	非参数统计（TS）（含 25.5 学时实践）		3	5	统计学类
+elective	30	多元统计分析（TS）（含 8.5 学时实践）		3	6	统计学类
+elective	30	时间序列分析（TS）（含 17 学时实践）		3	6	统计学类
+elective	30	会计学		3	3	统计学类
+elective	30	数据科学实践 TC（含 25.5 学时实践）		2	6	统计学类
+elective	30	统计计算（TS）（含 17 学时实践）		3	6	统计学类
+elective	30	机器学习（TS）（含 17 学时实践）		3	4	统计学类
+elective	30	大数据并行计算（TS）（含 25.5 学时实践）		3	5	统计学类
+elective	30	实验设计		3	6	统计学类
+elective	30	数据结构与算法Ⅰ		4	3	统计学类
+elective	30	深度学习（TS）（含 17 学时实践）		2	5	统计学类
+elective	31	金融学 B		3	3	统计学类
+elective	31	财政学 B		3	4, 5	统计学类
+elective	31	公共管理学 A		3	3	统计学类
+elective	31	政府统计与公共治理		2	4	统计学类
+elective	102	统计调查实践		2	4, 6	统计学类
+elective	102	智能数据分析与实践		2	4, 6	统计学类
+elective	102	商业应用分析实践		2	4, 6	统计学类
+elective	32	智能信息检索导论		2	5	人工智能类
+elective	32	自然语言处理导论		2	6	人工智能类
+elective	32	计算机视觉导论		2	6	人工智能类
+elective	32	机器人学导论		2	7	人工智能类
+elective	33	图论		2	4	人工智能类
+elective	33	迁移学习		2	5	人工智能类
+elective	33	大模型预训练技术		2	6	人工智能类
+elective	33	数字信号处理		3	5	人工智能类
+elective	33	计算理论导论		2	6	人工智能类
+elective	33	博弈论		2	6	人工智能类
+elective	33	强化学习		2	5	人工智能类
+elective	33	概率图模型理论与应用		2	6	人工智能类
+elective	33	可解释机器学习		2	6	人工智能类
+elective	34	数据科学导论		3	4	人工智能类
+elective	34	数据库系统概论		4	5	人工智能类
+elective	34	数据挖掘与知识发现		2	6	人工智能类
+elective	34	机器翻译		2	6	人工智能类
+elective	34	推荐系统		2	6	人工智能类
+elective	35	互联网金融概论		2	4	人工智能类
+elective	35	智慧新媒体		2	5	人工智能类
+elective	35	金融大数据分析		2	5	人工智能类
+elective	35	智慧城市		2	5	人工智能类
+elective	35	计算传播		2	5	人工智能类
+elective	35	网络群体与市场		2	5	人工智能类
+elective	35	神经科学与类脑智能		2	6	人工智能类
+elective	35	智慧法学		2	6	人工智能类
+elective	35	计算经济学		2	6	人工智能类
+elective	36	科研训练成果认定 Ⅰ		2	6	人工智能类
+elective	36	科研训练成果认定 Ⅱ		2	7	人工智能类
+graduate	本研贯通课（不计入本科学分）	运筹学与优化理论		2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	现代数值方法		2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	学术规范与论文写作		2	2, 4, 6, 8	
+graduate	本研贯通课（不计入本科学分）	人工智能：感知与认知基础		2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	高级机器学习		2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	神经网络与深度学习		2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	海量数据挖掘		2	2, 4, 6, 8	
+graduate	本研贯通课（不计入本科学分）	概率与随机算法		2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	智能计算系统		2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	大数据平台与算法		2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	知识表示与推理		2	2, 4, 6, 8	
+graduate	本研贯通课（不计入本科学分）	数据库管理系统原理与实现		2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	图机器学习		2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	智能推荐系统		2	2, 4, 6, 8	
+graduate	本研贯通课（不计入本科学分）	高级强化学习		2	2, 4, 6, 8	
+graduate	本研贯通课（不计入本科学分）	对话系统		2	2, 4, 6, 8	
+graduate	本研贯通课（不计入本科学分）	智能多媒体处理		2	2, 4, 6, 8	
+graduate	本研贯通课（不计入本科学分）	几何深度学习		2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	预训练模型		2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	小样本学习		2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	智慧医药与公共卫生		2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	深度生成模型		2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	物理驱动深度学习		2	2, 4, 6, 8	
+common	研究训练	研究训练		2	1, 2, 3, 4, 5, 6, 7, 8	
+engineering	专业特色创新训练	科研早培实践 I		1	3	
+engineering	专业特色创新训练	科研早培实践 II		1	6	
+common	专业实习	专业实习		2	6, 7	
+engineering	专业实习	综合设计		2	第一学年暑期	
+engineering	毕业论文（设计）	学术调研与论文写作		2	6	
+common	毕业论文（设计）	毕业论文（设计）		4	7, 8	
+

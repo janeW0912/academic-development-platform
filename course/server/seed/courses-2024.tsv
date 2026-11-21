@@ -1,0 +1,536 @@
+common	思想政治理论课	思想道德与法治	BIAPIP0002	3	1	required
+common	思想政治理论课	中国近现代史纲要	BBMCIP0001	3	2	required
+common	思想政治理论课	马克思主义基本原理	BBPMIP0002	3	3	required
+common	思想政治理论课	习近平新时代中国特色社会主义思想概论	BSSMIP0002	3	3	required
+common	思想政治理论课	毛泽东思想和中国特色社会主义理论体系概论	BSCCIP0001	3	4	required
+common	思想政治理论课	形势与政策	BIAPIP0003	2	1, 2, 3, 4, 5, 6, 7, 8	required
+common	思想政治理论课	思政实践课	BSSMIP0003	2	1, 2, 3, 4, 5, 6, 7, 8	required
+common	思想政治理论课	习近平经济思想概论	BSSMIP0004	2	2, 4, 6, 8	optional
+common	思想政治理论课	习近平法治思想概论	BSSMIP0005	2	1, 3, 5, 7	optional
+common	思想政治理论课	习近平文化思想概论	BSSMIP0010	2	1, 3, 5, 7	optional
+common	思想政治理论课	习近平生态文明思想概论	BSSMIP0006	2	2, 4, 6, 8	optional
+common	思想政治理论课	习近平强军思想概论	BSSMIP0007	2	2, 4, 6, 8	optional
+common	思想政治理论课	习近平外交思想概论	BSSMIP0008	2	1, 3, 5, 7	optional
+common	思想政治理论课	习近平关于教育的重要论述导读	BSSMIP0009	2	2, 4, 6, 8	optional
+common	思想政治理论课	习近平关于“三农”工作重要论述概论	BAEMMS0013	2	1, 3, 5, 7	optional
+common	思想政治理论课	社会主义发展史专题	BMATIP0001	2	1, 3, 5, 7	optional
+common	思想政治理论课	中国共产党历史专题	BPBCIP0001	2	1, 3, 5, 7	optional
+common	思想政治理论课	中华优秀传统文化概论	BCCSMS0093	2	1, 3, 5, 7	optional
+common	基础技能 - 公共外语	大学英语综合 A	BELLCEA003	2	1	A
+common	基础技能 - 公共外语	大学英语综合 B	BELLCEB003	2	1	B
+common	基础技能 - 公共外语	学术英语综合	BELLCE0019	2	1	X
+common	基础技能 - 公共外语	国际胜任力素养	BELLCE0021	2	2	X
+common	基础技能 - 公共外语	英语辩论	BELLCE0009	2	2	X
+common	基础技能 - 公共外语	英语演讲	BELLCE0010	2	3	ABX
+common	公共外语拓展课	高级英语写作	BELLCF0001	2	2	AB
+common	公共外语拓展课	英汉翻译基础	BELLCF0002	2	2	AB
+common	公共外语拓展课	学术英语视听说	BELLCE0006	2	2	AB
+common	公共外语拓展课	英语国家社会与文化	BWDHCF0001	2	2	AB
+common	公共外语拓展课	中国文化	BWDHCF0002	2	2	AB
+common	公共外语拓展课	中华文化国际沟通与传播	BWDHCF0003	2	2	AB
+common	公共外语拓展课	英美小说选读	BELLCF0003	2	2	AB
+common	公共外语拓展课	基础法语	BFLLCF0001	2	3	X
+common	公共外语拓展课	基础德语	BGLLCF0001	2	3	X
+common	公共外语拓展课	基础日语	BJLLCF0001	2	3	X
+common	公共外语拓展课	基础西班牙语	BSLLCF0001	2	3	X
+common	公共外语拓展课	基础俄语	BRLLCF0001	2	3	X
+common	公共体育	游泳	BCPEQD0003	1	1, 2, 3, 4	core
+common	公共体育	太极拳	BCPEQD0002	1	1, 2, 3, 4	core
+common	公共体育	篮球	BCPEQD0004	1	1, 2, 3, 4	core
+common	公共体育	健美操	BCPEQD0009	1	1, 2, 3, 4	core
+common	公共体育	体育运动基础	BCPEQD0027	1	1, 2, 3, 4	core
+common	公共体育	田径	BCPEQD0012	1	1, 2, 3, 4	specialty
+common	公共体育	体质健康	BCPEQD0019	1	1, 2, 3, 4	specialty
+common	公共体育	啦啦操	BCPEQD0024	1	1, 2, 3, 4	specialty
+common	公共体育	瑜伽	BCPEQD0010	1	1, 2, 3, 4	specialty
+common	公共体育	体育舞蹈	BCPEQD0013	1	1, 2, 3, 4	specialty
+common	公共体育	健美	BCPEQD0016	1	1, 2, 3, 4	specialty
+common	公共体育	中华韵	BCPEQD0017	1	1, 2, 3, 4	specialty
+common	公共体育	养生	BCPEQD0023	1	1, 2, 3, 4	specialty
+common	公共体育	太极剑	BCPEQD0020	1	1, 2, 3, 4	specialty
+common	公共体育	足球	BCPEQD0005	1	1, 2, 3, 4	specialty
+common	公共体育	排球	BCPEQD0006	1	1, 2, 3, 4	specialty
+common	公共体育	乒乓球	BCPEQD0007	1	1, 2, 3, 4	specialty
+common	公共体育	网球	BCPEQD0008	1	1, 2, 3, 4	specialty
+common	公共体育	羽毛球	BCPEQD0015	1	1, 2, 3, 4	specialty
+common	公共体育	高尔夫	BCPEQD0021	1	1, 2, 3, 4	specialty
+common	公共体育	棒垒球	BCPEQD0025	1	1, 2, 3, 4	specialty
+common	公共体育	散打	BCPEQD0011	1	1, 2, 3, 4	specialty
+common	公共体育	跆拳道	BCPEQD0022	1	1, 2, 3, 4	specialty
+common	公共体育	拓展训练	BCPEQD0014	1	1, 2, 3, 4	specialty
+common	公共体育	篮球裁判	BCPEQD0018	1	1, 2, 3, 4	specialty
+common	公共体育	田径理论与裁判法实验	BCPEQD0026	1	1, 2, 3, 4	specialty
+common	公共体育	体育提高课		0	5, 6	advanced
+common	公共体育	一般选修课		0	7, 8	advanced
+common	新生研讨课	新生研讨课Ⅰ（数字时代的科学与技术）	BSFEQD0001	1	1	
+common	新生研讨课	新生研讨课 II	BSFEQD0002	1	2	
+common	心理健康教育	大学生心理健康	BMHEQD0002/BMHEQD00013	2	1, 2	
+common	公共选修课	情感心理学	BMHEQD0003	2	1	
+common	公共选修课	爱情心理学	BMHEQD0004	2	1	
+common	公共选修课	情商解析与修炼	BMHEQD0005	2	1	
+common	公共选修课	影视中的心理课	BMHEQD0006	2	1	
+common	公共选修课	大学生涯与个人成长	BMHEQD0007	2	1, 2	
+common	公共选修课	积极心理学团体辅导	BMHEQD0008	2	1, 2	
+common	公共选修课	自助旅行与心理健康教育	BMHEQD0009	2	2	
+common	公共选修课	朋辈心理辅导	BMHEQD0010	2	2	
+common	公共选修课	亲密关系心理分析	BMHEQD0011	2	2	
+common	公共选修课	心理咨询技巧在大学生活中的应用	BMHEQD0012	2	2	
+common	公共选修课	心理咨询实务与督导	BMHEQD0013	2	1	
+common	公共艺术教育	中国传统书画与健康		2	1, 3, 5, 7	
+common	公共艺术教育	中国美术史		2	1, 3, 5, 7	
+common	公共艺术教育	篆刻学		2	1, 3, 5, 7	
+common	公共艺术教育	书法文化与当代大学生人文素养		2	1, 3, 5, 7	
+common	公共艺术教育	古琴与传统文化		2	1, 3, 5, 7	
+common	公共艺术教育	中国音乐史		2	1, 3, 5, 7	
+common	公共艺术教育	文艺与音乐传播研究		2	2, 4, 6, 8	
+common	公共艺术教育	美学概论		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	文学跨媒介写作		2	2, 4, 6, 8	
+common	公共艺术教育	大学美育		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	二十世纪世界建筑发展史		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	二十世纪西方艺术		2	2, 4, 6, 8	
+common	公共艺术教育	歌声中的党史		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	文艺复兴艺术导论		2	1, 3, 5, 7	
+common	公共艺术教育	西方艺术史		2	2, 4, 6, 8	
+common	公共艺术教育	艺术概论		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	艺术鉴藏		2	1, 3, 5, 7	
+common	公共艺术教育	中国史前艺术		2	2, 4, 6, 8	
+common	公共艺术教育	花鸟画技法		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	泥塑造型基础		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	铅笔与视觉——素描风景写生		2	1, 3, 5, 7	
+common	公共艺术教育	山水画技法		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	书法基本技能训练		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	书法基础		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	水彩		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	水墨画技法		2	2, 4, 6, 8	
+common	公共艺术教育	魏碑临习与欣赏		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	汉隶临习与欣赏		2	1, 3, 5, 7	
+common	公共艺术教育	造型基础		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	中国工笔画鉴赏与实践		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	欧洲文艺复兴与巴洛克绘画赏析		2	1, 3, 5, 7	
+common	公共艺术教育	现代艺术大师名画赏析		2	1, 3, 5, 7	
+common	公共艺术教育	广告创意与艺术鉴赏		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	融合设计振兴乡村		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	摄影艺术概论		2	1, 3, 5, 7	
+common	公共艺术教育	明清古典文学鉴赏		2	1, 3, 5, 7	
+common	公共艺术教育	电影导论		2	1, 3, 5, 7	
+common	公共艺术教育	世界电影简史		2	1, 3, 5, 7	
+common	公共艺术教育	电影视听语言		2	1, 3, 5, 7	
+common	公共艺术教育	国剧艺术大观		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	戏剧跨文化漫游		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	中国古典诗歌的审美世界		2	1, 3, 5, 7	
+common	公共艺术教育	中国曲艺大观		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	户外演唱		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	声乐演唱基础训练与实践教学课		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	合唱艺术与发声技巧		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	中国民间舞蹈		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	聆听民乐		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	舞蹈作品赏析		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	西方古典音乐赏析		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	音乐基础理论与视唱练耳（简谱）		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	研究训练	研究训练		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	专业实习	专业实习		4	第 6 学期后暑假或寒假	
+common	毕业论文（设计）	毕业论文（设计）		4	7, 8	
+engineering	专业实习	综合设计		2	第一学年暑期	
+engineering	毕业论文（设计）	学术调研与论文写作		2	6	
+common	劳动教育	劳动教育	BEHEQD0001S	1	1, 2, 3, 4, 5, 6, 7	
+common	军事课	军事理论	BNDEQD0001	2	1, 2	
+common	军事课	军事技能	BNDEQD0002	2	1	
+common	职业生涯规划	职业生涯规划	BCDPQD0001	1	2	
+common	志愿服务	志愿服务	BSVERP0001S	2	1, 2, 3, 4, 5, 6, 7, 8	
+foundation	部类共同课	数学分析Ⅰ	BBSMMSB003	5	1	SATE
+foundation	部类共同课	数学分析Ⅱ	BBSMMSB004	5	2	SATE
+foundation	部类共同课	高等数学Ⅰ	BBSMMSC001	5	1	G
+foundation	部类共同课	高等数学Ⅱ	BBSMMSC002	5	2	G
+foundation	部类共同课	高等代数Ⅰ	BBSMMSB001	4	1	all
+foundation	部类共同课	高等代数Ⅱ	BBSMMSB002	4	2	all
+foundation	部类共同课	普通物理 B	BTPSMS0015	4	2, 4	all
+foundation	部类基础课	程序设计	BFNCMS0001S	4	1	all
+foundation	部类基础课	人工智能与 Python 程序设计	BCSTMS0022S	4	2	SATE
+core	专业核心课	机器学习	BSTAMS0011S	3	4	EG
+core	专业核心课	深度学习	BBSEMS0010	2	5	EG
+core	专业核心课	数据结构与算法Ⅰ	BCSTMSB005S/BCSTMSB006S	4	3	EG
+core	专业核心课	数据科学实践	BSTAMSA022	2	6	EG
+core	专业核心课	概率论	BPTMMSB001	4	3	E
+core	专业核心课	数理统计	BPTMMSA002SH	4	4	E
+core	专业核心课	概率论与数理统计	BPTMMSC001	4	3	G
+core	专业核心课	并行计算	BCSAMS0002S	2	5	G
+core	专业核心课	高级大数据系统	BSTAMSA040	3	6	G
+core	专业核心课	大数据并行计算	BCPMMS0001S	3	5	E
+core	专业核心课	统计学概论	BSTAMS0030S	2	1	E
+core	专业核心课	数据科学概论	BSTAMS0022	2	2	E
+core	专业核心课	数学分析Ⅲ	BBSMMSB005	5	3	E
+core	专业核心课	回归分析	BSTAMS0010S	3	5	E
+core	专业核心课	实变函数	BBSMMS0007	3	4, 5	E
+core	专业核心课	随机过程	BPTMMS0004	3	5	E
+core	专业核心课	最优化方法	BORCMS0004S	3	5	E
+core	专业核心课	统计计算	BSTAMS0026S	3	6	E
+core	专业核心课	数据科学导论	BBSEMS0006S	3	3	G
+core	专业核心课	计算机系统基础 I	BCSAMS0005S	3	3	G
+core	专业核心课	计算机系统基础 II	BCSAMSB001S	4	4	G
+core	专业核心课	离散数学 A	BCSTMSA004	3	2	G
+core	专业核心课	数据库系统概论	BCSTMS0002S	3	5	G
+core	专业核心课	数据结构与算法Ⅱ	BCSTMSB007S	3	4	G
+core	专业核心课	大数据可视化	BBSEMS0028S	2	5	G
+core	专业核心课	网络空间安全引论	BISYMS0005S	2	3	G
+core	专业核心课	软件工程导论	BCSTMS0008S	2	4	G
+core	专业核心课	统计学概论	BSTAMS0030S	2	1	S
+core	专业核心课	数据科学概论（含 17 学时实践）	BSTAMS0022	2	2	S
+core	专业核心课	数学分析Ⅲ	BBSMMSB005	5	3	S
+core	专业核心课	概率论（含 8.5 学时实践）	BPTMMSB001	4	3	S
+core	专业核心课	数理统计	BPTMMSA002SH	4	4	S
+core	专业核心课	回归分析（含 17 学时实践）	BSTAMS0010S	3	5	S
+core	专业核心课	实变函数（含 8.5 学时实践）	BBSMMS0007	3	3, 4	S
+core	专业核心课	随机过程（含 3.4 学时实践）	BPTMMS0004	3	5	S
+core	专业核心课	抽样技术（含 17 学时实践）	BSTAMS0003S	3	5	S
+core	专业核心课	非参数统计（含 25.5 学时实践）	BSTAMS0005S	3	5	S
+core	专业核心课	统计计算（含 17 学时实践）	BSTAMS0026S	3	6	S
+core	专业核心课	时间序列分析（含 17 学时实践）	BPTMMS0002	3	6	S
+core	专业核心课	多元统计分析（含 8.5 学时实践）	BPTMMS0001	3	6	S
+core	专业核心课	实验设计（含 17 学时实践）	BSTAMS0020S	3	6	S
+core	专业核心课	统计学概论	BSTAMS0030S	2	1	A
+core	专业核心课	数据科学概论（含 17 学时实践）	BSTAMS0022	2	2	A
+core	专业核心课	数学分析Ⅲ	BBSMMSB005	5	3	A
+core	专业核心课	概率论（含 8.5 学时实践）	BPTMMSB001	4	3	A
+core	专业核心课	数理统计（含 8.5 学时实践）	BPTMMSA002SH	4	4	A
+core	专业核心课	回归分析（含 17 学时实践）	BSTAMS0010S	3	5	A
+core	专业核心课	微观经济学	BWECMS0015	3	3	A
+core	专业核心课	宏观经济学	BWECMS0007	3	4	A
+core	专业核心课	随机过程（含 3.4 学时实践）	BPTMMS0004	3	5	A
+core	专业核心课	金融数学（含 8.5 学时实践）	BSTAMSA014	3	3	A
+core	专业核心课	精算模型（含 8.5 学时实践）	BSTAMS0018	3	5	A
+core	专业核心课	寿险精算学（含 17 学时实践）	BSTAMS0021	3	4	A
+core	专业核心课	多元统计分析（含 8.5 学时实践）	BPTMMS0001	3	6	A
+core	专业核心课	时间序列分析（含 17 学时实践）	BPTMMS0002	3	6	A
+core	专业核心课	统计学概论	BSTAMS0030S	2	1	T
+core	专业核心课	数据科学概论（含 17 学时实践）	BSTAMS0022	2	2	T
+core	专业核心课	会计学	BACCMSB001	3	2	T
+core	专业核心课	数学分析Ⅲ	BBSMMSB005	5	3	T
+core	专业核心课	概率论（含 8.5 学时实践）	BPTMMSB001	4	3	T
+core	专业核心课	数理统计（含 8.5 学时实践）	BPTMMSA002SH	4	4	T
+core	专业核心课	回归分析（含 17 学时实践）	BSTAMS0010S	3	5	T
+core	专业核心课	微观经济学	BWECMS0015	3	3	T
+core	专业核心课	宏观经济学	BWECMS0007	3	4	T
+core	专业核心课	抽样技术（含 17 学时实践）	BSTAMS0003S	3	5	T
+core	专业核心课	时间序列分析（含 17 学时实践）	BPTMMS0002	3	6	T
+core	专业核心课	多元统计分析（含 8.5 学时实践）	BPTMMS0001	3	6	T
+core	专业核心课	国民经济核算（含 17 学时实践）	BSTAMS0007	3	5	T
+core	专业核心课	计量经济学 B（含 17 学时实践）	BQECMSB001S	3	6	T
+elective	1	数学建模 A	BAPMMS0008S	2	4	数学类
+elective	1	微分流形	TBSMMS0012	3	5	数学类
+elective	1	动力系统	BAPMMS0002	3	5	数学类
+elective	1	最优化方法	BORCMS0004S	3	5	数学类
+elective	1	黎曼几何	TBSMMS0003	3	6	数学类
+elective	1	交换代数	TBSMMS0002	3	6	数学类
+elective	1	复分析	TBSMMS0006	3	6	数学类
+elective	1	代数拓扑	TBSMMS0014	3	7	数学类
+elective	1	群表示论	TBSMMS0009	3	7	数学类
+elective	1	黎曼曲面	BMTHMS0003	3	7	数学类
+elective	1	调和分析	TBSMMS0004	3	7	数学类
+elective	1	代数几何	TBSMMS0001	3	7	数学类
+elective	2	博弈论导论	BLECMS0013	2	4	数学类
+elective	2	组合数学	BBSMMS0011	2	5	数学类
+elective	2	微观经济学	BWECMS0015	3	5	数学类
+elective	2	区块链理论及应用	BQECMS0022	2	5	数学类
+elective	2	随机过程	BPTMMS0004	3	5	数学类
+elective	2	时间序列分析	BPTMMS0002	3	6	数学类
+elective	2	计算经济学	BQECMS0009	2	6	数学类
+elective	2	金融数学概论	BAPMMS0003	3	6	数学类
+elective	2	多元统计分析	BPTMMS0001	3	5, 6	数学类
+elective	2	最优控制	BORCMS0005	3	6	数学类
+elective	2	计量经济学 B	BQECMSB001S	3	6	数学类
+elective	2	宏观经济学	BWECMS0007	3	6	数学类
+elective	2	高等概率论	TCPMMS0001	3	7	数学类
+elective	2	随机微分方程	BPTMMS0006	3	7	数学类
+elective	2	随机分析	BPTMMS0003S	3	8	数学类
+elective	3	数据结构与算法Ⅰ	BCSTMSB005S	4	3	数学类
+elective	3	离散数学	BCSTMSA004	3	4	数学类
+elective	3	数值分析	BCPMMS0004	3	5	数学类
+elective	3	生物数学	BAPMMS0005	3	5	数学类
+elective	3	分布式优化	BAMSEMS0044	2	6	数学类
+elective	3	最优控制	BMSEMS0045	3	6	数学类
+elective	3	现代密码学	BISYMS0013	3	6	数学类
+elective	3	图论	BORCMS0001	2	6	数学类
+elective	3	机器学习	BSTAMS0011S	3	7	数学类
+elective	3	数值代数	BCPMMS0003	3	7	数学类
+elective	3	生物信息	BAPMMS0006	2	7	数学类
+elective	4	人工智能引论	BBSEMSB001S	2	3	数学类
+elective	4	数据科学概论	BSTAMS0022	2	4	数学类
+elective	4	博弈论导论	BLECMS0013	2	4	数学类
+elective	4	离散数学	BCSTMSA004	3	4	数学类
+elective	4	数据分析优化方法	BSTAMSA049	3	5	数学类
+elective	4	回归分析	BSTAMS0010S	3	5	数学类
+elective	4	数据结构与算法Ⅱ	BCSTMSB007S	3	5	数学类
+elective	4	随机过程	BPTMMS0004	3	5	数学类
+elective	4	算法设计与分析	BSTAMSA001S	3	5	数学类
+elective	4	区块链理论及应用	BCPMMS0010	2	5	数学类
+elective	4	金融科技概论	BFNCMS0010	3	5	数学类
+elective	4	统计软件	BSTAMSA027S	2	5	数学类
+elective	4	量子信息基础	TCPMMS0002	2	5	数学类
+elective	4	量子计算导论	TCPMMS0003	2	6	数学类
+elective	4	操作系统	BCSAMSB001S	4	6	数学类
+elective	4	运筹学	BMSEMS0037	3	6	数学类
+elective	4	计算经济学	BQECMS0009	2	6	数学类
+elective	4	现代密码学	BISYMS0013	3	6	数学类
+elective	4	分布式优化	BASEMS0044	2	6	数学类
+elective	4	数据科学实践	BSTAMS0023S	2	6	数学类
+elective	4	统计计算	BSTAMSA026S	3	6	数学类
+elective	4	数据采集与搜索技术	BCSCMS0004	3	6	数学类
+elective	4	统计预测与决策	BSTAMS0015	3	7	数学类
+elective	4	机器学习	BSTAMS0011S	3	7	数学类
+elective	4	复杂网络分析	BAPMMS0010	3	7	数学类
+elective	4	多尺度分析	BCSCMS0001	3	7	数学类
+elective	5	人工智能与物理学	BFINMS0025	2	3, 5	物理类
+elective	5	电工与电路	BPTMMSC002	3	4	物理类
+elective	5	Labview 与虚拟仪器设计	BPTMMSC003	2	5	物理类
+elective	5	计算物理 II	TTPSMS0005	3	5	物理类
+elective	5	金融物理	BTPSMS0006	3	6	物理类
+elective	5	磁学和磁性材料基础	TCMPMS0001	3	6, 8	物理类
+elective	5	量子信息和量子计算导论	TTPSMS0008	2	5, 7	物理类
+elective	5	凝聚态物理学导论	TCMPMS0003	3	5, 7	物理类
+elective	5	量子光学	BPTMMSC004	3	6	物理类
+elective	5	超冷原子物理	TTPSMS0003	3	7	物理类
+elective	5	超导物理	TTPSMS0002	3	7	物理类
+elective	5	科技英语写作	TTPSMS0010	2	7	物理类
+elective	5	材料科学基础	BCMPMS0003	3	5	物理类
+elective	5	相图与相变	TCMPMS0002S	3	6	物理类
+elective	5	材料物理	BCMPMS0005S	3	7	物理类
+elective	5	高等量子力学	TTPSMS0004	3	7	物理类
+elective	5	量子统计物理	TTPSMS0007	4	7	物理类
+elective	5	群论	TTPSMS0009	4	7	物理类
+elective	5	介观与纳米物理	BCMPMS0008	3	6, 8	物理类
+elective	6	人工智能与物理学	BFINMS0025	2	3, 5	物理类
+elective	6	电工与电路	BPTMMSC002	3	4	物理类
+elective	6	Labview 与虚拟仪器设计	BPTMMSC003	2	5	物理类
+elective	6	数学物理方法 III- 概率论与数理统计	BPTMMSC001	3	5	物理类
+elective	6	计算物理 II	TTPSMS0005	3	5	物理类
+elective	6	电动力学	BTPSMS0001	4	5	物理类
+elective	6	近代物理实验	BCMPMS0006S	3	5	物理类
+elective	6	金融物理	BTPSMS0006	3	6	物理类
+elective	6	磁学和磁性材料基础	TCMPMS0001	3	6, 8	物理类
+elective	6	量子信息和量子计算导论	TTPSMS0008	2	5, 7	物理类
+elective	6	量子光学	BPTMMSC004	3	6	物理类
+elective	6	超冷原子物理	TTPSMS0003	3	7	物理类
+elective	6	超导物理	TTPSMS0002	3	7	物理类
+elective	6	科技英语写作	TTPSMS0010	2	7	物理类
+elective	6	高等量子力学	TTPSMS0004	3	7	物理类
+elective	6	量子统计物理	TTPSMS0007	4	7	物理类
+elective	6	群论	TTPSMS0009	4	7	物理类
+elective	6	介观与纳米物理	BCMPMS0008	3	6, 8	物理类
+elective	7	专业英语	BCHEMS0002	2	4	化学类
+elective	7	化学信息学	BCHEMS0001	2	4	化学类
+elective	7	有机合成	BOCHEMS002	2	5	化学类
+elective	7	高分子化学	BPCPMS0001	2	5	化学类
+elective	7	化工基础	BPVHMS0002S	2	6	化学类
+elective	7	精细化学品	BOCHMS0001	2	6	化学类
+elective	7	材料科学导论	BPVHMS0001	2	6	化学类
+elective	7	高分子化学实验（含 68 学时实验）	BPCPMS0003	2	6	化学类
+elective	7	生物化学	BPCPMS0002	2	5	化学类
+elective	7	配位化学	BICHMS0004	2	5	化学类
+elective	7	碳化学	BICHMS0007	2	2	化学类
+elective	8	材料表征技术	PCH603	2	8	化学类
+elective	8	电化学原理及应用	ACH603	2	7	化学类
+elective	8	振动光谱	PCH601	2	7	化学类
+elective	8	高等无机化学	ICH601	2	8	化学类
+elective	8	高等物理化学	PCH602	2	8	化学类
+elective	8	高等仪器分析	ACH606	2	8	化学类
+elective	8	高等有机化学	OCH602	2	7	化学类
+elective	8	功能高分子	PCP604	2	7	化学类
+elective	8	化学生物学	OCH603	2	7	化学类
+elective	8	化学研究基础方法	OCH601	2	7	化学类
+elective	8	金属有机化学	OCH605	2	7	化学类
+elective	8	光化学与光生物学	PCH604	2	7	化学类
+elective	8	绿色化学	OCH604	2	8	化学类
+elective	8	量子计算化学	PCH606	2	8	化学类
+elective	8	生物物理化学	PCH607	2	7	化学类
+elective	8	太阳能电池原理与器件	ICH604	2	7	化学类
+elective	8	先进高分子材料研究方法	PCP605	2	7	化学类
+elective	8	现代电化学分析	ACH604	2	8	化学类
+elective	8	有机半导体	PCP606	2	7	化学类
+elective	8	有机波谱分析	OCH606	2	8	化学类
+elective	8	元素有机化学	OCH607	2	7	化学类
+elective	8	分子光谱学	PCH609	2	7	化学类
+elective	8	学术规范和论文写作	ICH605	2	8	化学类
+elective	8	生物无机化学	OCH608	2	8	化学类
+elective	8	电子材料与器件	PCP607	2	8	化学类
+elective	9	吸附科学	BEEGMS0027	2	4	环境类
+elective	9	环境生态学	BECOMS0001	2	4	环境类
+elective	9	环境与健康	BESSMS0009	2	4	环境类
+elective	9	保护生态学	BECOMS0001	2	5	环境类
+elective	9	水污染控制工程实验（含 34 学时实验）	BEEGMS0015S	2	5	环境类
+elective	9	纳米技术与环境修复（英）	BEEGMS0024E	2	5	环境类
+elective	9	胶体与表面化学	BEPMMS0033	2	5	环境类
+elective	9	环境影响评价	BEPMMS0004	2	5	环境类
+elective	9	物理性污染控制	BEEGMS0018	2	6	环境类
+elective	9	环境工程设计（含 34 学时实践）	BEEGMS0009	2	6	环境类
+elective	9	环境大数据分析与数据模型	BESSMS0014	2	6	环境类
+elective	10	程序设计实践	BCATMS0004	2	5	计算机类
+elective	10	开源软件实践	BCSTMS0009S	2	5	计算机类
+elective	10	信息安全实践与创新（信息安全竞赛）	BISYMS0014	2	6	计算机类
+elective	10	数据科学实践	BSTAMSA022	2	6	计算机类
+elective	10	数据库系统开发实践	BSTAMSA054	2	6	计算机类
+elective	11	现代处理器设计	BCSAMS0011	3	5	计算机类
+elective	11	操作系统内核实现	BCSAMS0012	3	6	计算机类
+elective	11	人工智能计算系统	BCSAMS0015S	3	6	计算机类
+elective	12	运筹学建模与算法	BCSTMS0004	3	4	计算机类
+elective	12	最优化方法	BORCMS0004S	3	5	计算机类
+elective	12	图论	BORCMS0001	2	4	计算机类
+elective	12	计算学习理论	BBSEMS0029	2	6	计算机类
+elective	13	数字逻辑与数字电路	BCSAMS0016S	2	3	计算机类
+elective	13	无线通信技术	BCATMS0018S	2	6	计算机类
+elective	13	RUST 系统编程实践	BCSAMS0017S	2	6	计算机类
+elective	13	智能数据管理系统	BCSTMS0010S	2	5	计算机类
+elective	13	现代通信技术	BCATMS0020S	2	7	计算机类
+elective	14	深度学习应用	BBSEMS0020	3	5	计算机类
+elective	14	自然语言处理	BCATMS0023S	2	7	计算机类
+elective	14	迁移学习	BBSEMS0024	2	5	计算机类
+elective	14	信息检索导论	BBSEMS0008S	2	6	计算机类
+elective	14	机器感知技术	BCATMS0007S	2	7	计算机类
+elective	15	数据治理	BIRMMS0013	2	5	计算机类
+elective	15	网络群体与市场	BCATMS0017	2	5	计算机类
+elective	15	大数据可视化	BBSEMS0028S	2	4	计算机类
+elective	15	大数据隐私计算	BBSEMS0030	2	6	计算机类
+elective	15	机器学习风险评估与管理	BBSEMS0031S	2	6	计算机类
+elective	16	多媒体技术	BCATMS0005S	2	5	计算机类
+elective	16	Spoken Language Processing	BCATMS0001ES	2	6	计算机类
+elective	16	模式识别与计算机视觉	BCATMS0013S	2	6	计算机类
+elective	16	数字信号处理	BCSCMS0008	3	5	计算机类
+elective	17	函数式编程	BCSTMS0011S	2	6	计算机类
+elective	17	软件测试	BCSTMS0012	2	5	计算机类
+elective	17	JAVA 程序设计	BMSEMS0004S	3	4	计算机类
+elective	17	分布式应用程序设计	BMSEMS0010S	3	6	计算机类
+elective	18	程序设计安全	BISYMS0001S	2	5	计算机类
+elective	18	操作系统内核分析与实践	BCSAMS0014	2	5	计算机类
+elective	18	编译原理	BCSAMS0001S	3	6	计算机类
+elective	18	Software Quality Assurance	BISYMS0015ES	2	5	计算机类
+elective	19	Web 安全	BCATMS0039	2	4	计算机类
+elective	19	区块链原理及实践	BQECMS0023	2	5	计算机类
+elective	19	信息内容安全	BISYMS0010S	2	6	计算机类
+elective	19	信息安全管理	BISYMS0008S	2	5	计算机类
+elective	19	人工智能安全	BISYMS0016S	2	6	计算机类
+elective	20	管理学概论	BMSEMS0013	2	3	计算机类
+elective	20	管理经济学 A	BTEMMSA001	3	4	计算机类
+elective	20	信息系统理论基础	BMSEMS0032B	2	4	计算机类
+elective	20	信息资源管理	BMSEMS0034	2	5	计算机类
+elective	20	计量分析商业应用	BQECMS0024	2	5	计算机类
+elective	21	Python 数据分析与机器学习	BMSEMS0006	3	4	计算机类
+elective	21	JSP 实用技术	BMSEMS0005	3	5	计算机类
+elective	21	商业知识图谱技术与应用	BMSEMS0040	2	5	计算机类
+elective	21	区块链商业应用基础	BMSEMS0020	2	6	计算机类
+elective	22	电子商务规划与管理（全英文）	BCSCMS0006E	2	3	计算机类
+elective	22	电子商务案例	BMSEMS0008	2	4	计算机类
+elective	22	IT 创新创业模式及系统实现	BMSEMS0002	3	5	计算机类
+elective	22	ERP 与企业运营模拟	BMSEMS0001	3	5	计算机类
+elective	22	网络空间与智慧治理	BISYMS0011	2	6	计算机类
+elective	23	互联网金融概论	BMSEMS0014	2	4	计算机类
+elective	23	金融信息管理	BMSEMS0018	2	5	计算机类
+elective	23	金融大数据分析	BMSEMS0015	2	5	计算机类
+elective	23	金融风险管理	BMSEMS0016	2	5	计算机类
+elective	23	金融技术与实践	BMSEMS0017	2	5	计算机类
+elective	23	现代投资学	BMSEMS0027	2	6	计算机类
+elective	24	数理统计选讲	BPTMMSB006	2	5	统计学类
+elective	24	测度论（含 8.5 学时实践）	BPTMMSB007	2	6	统计学类
+elective	24	贝叶斯统计	BSTAMS0002	2	7	统计学类
+elective	24	现代数学选讲（含 8.5 学时实践）	BAPMMS0009	2	8	统计学类
+elective	25	数据可视化（含 17 学时实践）	BCATMS0028	2	3, 5	统计学类
+elective	25	数据科学：从问题到结论		2	4	统计学类
+elective	25	非结构化数据分析与案例（含 8.5 学时实践）	BCSCMS0007	2	6	统计学类
+elective	25	强化学习（含 8.5 学时实践）	BCATMS0040	2	6	统计学类
+elective	25	数据科学专题	BSTAMS0024	2	7	统计学类
+elective	26	保险原理	BSTAMS0001	2	1, 3	统计学类
+elective	26	寿险精算选讲	BINPMS0014	2	5	统计学类
+elective	26	公司财务 A	BFNCMSB001	3	6	统计学类
+elective	26	投资学 B	BFNCMSB005	2	4, 6	统计学类
+elective	26	精算风险管理	BSTAMS0017	2	6	统计学类
+elective	26	衍生金融市场基础（含 3.4 学时实践）	BSTAMS0033	2	4, 6	统计学类
+elective	26	非寿险精算（含 8.5 学时实践）	BSTAMS0006	2	6	统计学类
+elective	26	大数据精算建模	BSTAMS0004	2	7	统计学类
+elective	27	经济与社会统计（含 8.5 学时实践）	BSTAMS0016	3	4	统计学类
+elective	27	统计调查（含 17 学时实践）	BSTAMS0028	2	4	统计学类
+elective	27	金融统计问题概览（含 17 学时实践）	BSTAMS0015	2	5	统计学类
+elective	27	宏观经济统计分析（含 17 学时实践）	BSTAMS0008	2	7	统计学类
+elective	28	国土空间统计学	BSTAMSA050	2	5	统计学类
+elective	28	统计软件（含 8.5 学时实践）	BSTAMS0027S	2	3	统计学类
+elective	28	算法设计与分析	BSTAMSA001S	3	5	统计学类
+elective	28	数据库系统概论	BCSTMS0002S	4	5	统计学类
+elective	29	商业应用分析 TS（含 17 学时实践）	BSTAMSA051	3	3, 5	统计学类
+elective	29	商务大数据分析案例选讲（含 17 学时实践）	BSTAMSA052	2	3, 5	统计学类
+elective	29	调查技术与方法	BSTAMSA057	2	3, 5	统计学类
+elective	29	数字化营销实务	BMKTMS0034	3	6	统计学类
+elective	30	抽样技术（含 17 学时实践）	BSTAMS0003S	3	5	统计学类
+elective	30	最优化方法（含 17 学时实践）	BORCMS0004S	3	5	统计学类
+elective	30	非参数统计（含 25.5 学时实践）	BSTAMS0005S	3	5	统计学类
+elective	30	多元统计分析（含 8.5 学时实践）	BPTMMS0001	3	5, 6	统计学类
+elective	30	时间序列分析（含 17 学时实践）	BPTMMS0002	3	6	统计学类
+elective	30	会计学	BACCMSB001	3	3	统计学类
+elective	30	数据科学实践（含 25.5 学时实践）	BSTAMS0023S	2	6	统计学类
+elective	30	统计计算（含 17 学时实践）	BSTAMS0026S	3	6	统计学类
+elective	30	机器学习（含 17 学时实践）	BSTAMS0011S	3	4	统计学类
+elective	30	大数据并行计算（含 25.5 学时实践）	BCPMMS0001S	3	5	统计学类
+elective	30	实验设计	BSTAMS0020S	3	6	统计学类
+elective	30	数据结构与算法Ⅰ	BCSTMSB006S	4	3	统计学类
+elective	30	深度学习（含 17 学时实践）	BBSEMS0010	2	5	统计学类
+elective	31	金融学 B	BFNCMSB004	3	3	统计学类
+elective	31	财政学 B	BPFEMSB001	3	4, 5	统计学类
+elective	31	公共管理学 A	BPANMSA001	3	3	统计学类
+elective	31	政府统计与公共治理	BSTAMSA053	2	4	统计学类
+elective	32	智能信息检索导论	BBSEMS0021	2	5	人工智能类
+elective	32	自然语言处理导论	BBSEMS0012	2	6	人工智能类
+elective	32	计算机视觉导论	BCATMS0013	2	6	人工智能类
+elective	32	机器人学导论	BBSEMS0031	2	7	人工智能类
+elective	33	图论	BORCMS0001	2	4	人工智能类
+elective	33	迁移学习	BBSEMS0024	2	5	人工智能类
+elective	33	大模型预训练技术	BBSEMS0033	2	6	人工智能类
+elective	33	数字信号处理	BCSCMS0008	3	5	人工智能类
+elective	33	计算理论导论	BCSTMSB004	2	6	人工智能类
+elective	33	博弈论	BLECMS0001	2	6	人工智能类
+elective	33	强化学习	BBSEMS0023	2	5	人工智能类
+elective	33	概率图模型理论与应用	BBSEMS0025	2	6	人工智能类
+elective	33	可解释机器学习	BBSEMS0027	2	6	人工智能类
+elective	34	程序设计Ⅱ	BCSTMSB002S	2	2	人工智能类
+elective	34	数据科学导论	BBSEMS0006	3	4	人工智能类
+elective	34	数据库系统概论	BCSTMS0002	4	5	人工智能类
+elective	34	数据挖掘与知识发现	BBSEMS0022	2	6	人工智能类
+elective	34	机器翻译	BBSEMS0028	2	6	人工智能类
+elective	34	推荐系统	BBSEMS0029	2	6	人工智能类
+elective	35	互联网金融概论	BMSEMS0014	2	4	人工智能类
+elective	35	智慧新媒体	BCSAMS0011	2	5	人工智能类
+elective	35	金融大数据分析	BMSEMS0015	2	5	人工智能类
+elective	35	智慧城市	BCSAMS0012	2	5	人工智能类
+elective	35	计算传播理论与实务	BCSAMS0013	2	5	人工智能类
+elective	35	网络群体与市场	BCATMS0017	2	5	人工智能类
+elective	35	神经科学与类脑智能	BCSAMS0009	2	6	人工智能类
+elective	35	智慧法学	BCSAMS0010	2	6	人工智能类
+elective	35	计算经济学	BQECMS0009	2	6	人工智能类
+elective	36	科研训练成果认定Ⅰ		2	6	人工智能类
+elective	36	科研训练成果认定Ⅱ		2	7	人工智能类
+graduate	本研贯通课（不计入本科学分）	运筹学与优化理论	TAPMMS0002	2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	现代数值方法	TAPMMS0003	2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	学术规范与论文写作	TBSEMS0001	2	2, 4, 6, 8	
+graduate	本研贯通课（不计入本科学分）	人工智能：感知与认知基础	TBSEMS0002	2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	高级机器学习	TBSEMS0003	2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	神经网络与深度学习	TBSEMS0004	2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	海量数据挖掘	TBSEMS0005	2	2, 4, 6, 8	
+graduate	本研贯通课（不计入本科学分）	概率与随机算法	TFEGMS0001	2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	智能计算系统	TBSEMS0006	2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	大数据平台与算法	TBSEMS0007	2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	知识表示与推理	TBSEMS0008	2	2, 4, 6, 8	
+graduate	本研贯通课（不计入本科学分）	数据库管理系统原理与实现	TBSEMS0009	2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	图机器学习	TBSEMS0010	2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	智能推荐系统	TBSEMS0011	2	2, 4, 6, 8	
+graduate	本研贯通课（不计入本科学分）	高级强化学习	TBSEMS0012	2	2, 4, 6, 8	
+graduate	本研贯通课（不计入本科学分）	对话系统	TBSEMS0013	2	2, 4, 6, 8	
+graduate	本研贯通课（不计入本科学分）	智能多媒体处理	TBSEMS0014	2	2, 4, 6, 8	
+graduate	本研贯通课（不计入本科学分）	几何深度学习	TBSEMS0015	2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	预训练模型	TBSEMS0016	2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	小样本学习	TBSEMS0017	2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	智慧医药与公共卫生	TBSEMS0018	2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	深度生成模型	TBSEMS0019	2	1, 3, 5, 7	
+graduate	本研贯通课（不计入本科学分）	物理驱动深度学习	TBSEMS0020	2	2, 4, 6, 8	
+graduate	本研贯通课（不计入本科学分）	概率图模型	TBSEMS0021	2	未注明	
+common	公共艺术教育	中国民歌赏析		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	中国声乐艺术及鉴赏		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	中国音乐赏析		2	1, 2, 3, 4, 5, 6, 7, 8	
+common	公共艺术教育	中外名歌赏析与比较		2	1, 2, 3, 4, 5, 6, 7, 8	
+foundation	部类共同课	线性代数	BBSMMSC003	4	1	
+foundation	部类共同课	普通物理 AI	BTPSMSB001	4	1	
+

@@ -1,0 +1,106 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --ruc-red: #990100;
+  --ruc-red-2: #B52E3F;
+  --ruc-gray: #F2F2F2;
+  --white: #FFFFFF;
+
+  --mint-300: #B52E3F;
+  --mint-200: #F2F2F2;
+  --mint-100: #F7F7F7;
+  --ink-900: #1A1A1A;
+  --ink-700: #333333;
+  --ink-500: #5A5A5A;
+  --paper: #FFFFFF;
+  --line: #D9D9D9;
+  --danger: #990100;
+
+  --background: var(--ruc-gray);
+  --foreground: var(--ink-900);
+  --card: var(--paper);
+  --card-foreground: var(--ink-900);
+  --popover: var(--paper);
+  --popover-foreground: var(--ink-900);
+  --primary: var(--ruc-red);
+  --primary-foreground: var(--white);
+  --secondary: var(--ruc-gray);
+  --secondary-foreground: var(--ruc-red);
+  --muted: var(--ruc-gray);
+  --muted-foreground: var(--ink-500);
+  --accent: var(--ruc-red-2);
+  --accent-foreground: var(--white);
+  --destructive: var(--ruc-red);
+  --destructive-foreground: var(--white);
+  --border: var(--line);
+  --input: var(--line);
+  --ring: var(--ruc-red);
+  --radius: 0.5rem;
+}
+
+* {
+  box-sizing: border-box;
+  border-color: var(--line);
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 92px;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100dvh;
+  background: var(--background);
+  color: var(--foreground);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+button,
+a,
+input,
+select {
+  -webkit-tap-highlight-color: transparent;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.45;
+}
+
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+select:focus-visible {
+  outline: 3px solid var(--ink-700);
+  outline-offset: 3px;
+}
+
+::selection {
+  background: var(--mint-300);
+  color: var(--ink-900);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
